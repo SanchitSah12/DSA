@@ -1,4 +1,4 @@
-package OOPS.StaticExample;
+package OOPSCONCEPTS.OOPS2.OOPS.StaticExample;
 
 public class InitializationVar {
     static int a = 4;

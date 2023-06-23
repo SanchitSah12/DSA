@@ -1,4 +1,4 @@
-package OOPSCONCEPTS.inheritance;
+package OOPSCONCEPTS.OOPS3.inheritance;
 
 import java.util.Objects;
 

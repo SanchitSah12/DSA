@@ -1,4 +1,4 @@
-package OOPSCONCEPTS.polymorphism;
+package OOPSCONCEPTS.OOPS3.polymorphism;
 
 public class Square extends Shapes{
     //this will run when obj of sq will be created

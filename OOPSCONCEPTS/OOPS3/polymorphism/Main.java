@@ -1,4 +1,4 @@
-package OOPSCONCEPTS.polymorphism;
+package OOPSCONCEPTS.OOPS3.polymorphism;
 
 public class Main {
     public static void main(String[] args) {

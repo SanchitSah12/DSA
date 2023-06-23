@@ -1,4 +1,4 @@
-package OOPS.StaticExample;
+package OOPSCONCEPTS.OOPS2.OOPS.StaticExample;
 
 import java.util.*;
 public class Human{

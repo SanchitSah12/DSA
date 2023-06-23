@@ -1,4 +1,4 @@
-package OOPS.pack1;
+package OOPSCONCEPTS.OOPS2.OOPS.pack1;
 
 public class Message {
     public static void main(String args[]) {

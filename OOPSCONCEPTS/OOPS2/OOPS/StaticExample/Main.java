@@ -1,4 +1,4 @@
-package OOPS.StaticExample;
+package OOPSCONCEPTS.OOPS2.OOPS.StaticExample;
 
 public class Main {
     public static void main(String[] args) {
