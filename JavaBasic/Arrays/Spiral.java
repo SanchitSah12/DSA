@@ -12,7 +12,7 @@ public class Spiral {
                 matrix[i][j] = sc.nextInt();
             }
         }
-
+        System.out.print("don");
         System.out.println("The Spiral Order Matrix is : ");
         int rowStart = 0;
         int rowEnd = n - 1;
